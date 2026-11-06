@@ -1,18 +1,32 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Building full-stack web and mobile applications using React, React Native, FastAPI, and Laravel, while strengthening my backend architecture and API design skills.<br><br>👯 I’m looking to collaborate on<br><br>Open-source web apps, AI-powered tools, and mobile applications — especially projects that solve real-world problems.<br><br>🤝 I’m looking for help with<br><br>Improving system design, scalable backend architecture, and integrating AI into production apps.<br><br>🌱 I’m currently learning<br><br>Advanced React patterns, mobile app optimization in React Native, AI integration with Python (FastAPI), and clean architecture practices.<br><br>💬 Ask me about<br><br>Frontend development with React, building APIs with FastAPI & Laravel, or getting started as a junior developer.<br><br>⚡ Fun fact<br>I debug faster at 2 AM than at 2 PM
+### Hi, I'm Abdulrehman 👋
 
+Full-stack developer from Faisalabad, Pakistan. I build SaaS dashboards, mobile apps and API integrations with **Next.js, React, TypeScript, FastAPI, React Native and Flutter**.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdulrehman.bilal.370225) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdulrehman_bilal8584) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulrehman-bilal-9953a4372) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulrehmanbilal25@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=xMaan1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=xMaan1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xMaan1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Software Engineer at **Exprtec** since July 2025, shipping features on production SaaS products for Australian and UK markets. **Open to freelance work.**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=xMaan1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+#### What I've built
+
+- **Biztrack**: multi-tenant business management SaaS that I built solo. Next.js + FastAPI + PostgreSQL web app, an Expo mobile app with offline sync, and a Tauri desktop app. Invoicing with VAT, inventory, POS, CRM, role-based permissions, Stripe/PayPal subscriptions, a UK MOT booking wizard, and CI/CD to a VPS. → [repo](https://github.com/xMaan1/Biztrack)
+- **Google Search Console integration** for a live healthcare-provider directory (at Exprtec): Google OAuth with encrypted token storage, search analytics charts, and stats in weekly provider emails. Cloudflare Workers + D1.
+- **Shopivo**: Flutter + Supabase e-commerce store from one codebase for web, Android and iOS, with an admin panel, row-level security, server-side checkout and realtime order notifications. → [repo](https://github.com/khokharumer351-byte/shopivos)
+- **Brokerage ledger app**: React Native / Expo app used daily by a textile business, with sales slips, a party ledger and PDF export.
+- **MegaStop order tracking**: Laravel dashboard for an e-commerce business covering orders, delivery charges, ad spend and profit. → [repo](https://github.com/xMaan1/tracking-website-megastop)
+- **Logo-Matic**: Flutter app that batch-watermarks images with a logo. → [repo](https://github.com/xMaan1/Logo-Matic)
+- **Blocktide**: Unity 6 mobile puzzle game with rewarded ads *(in development)*.
+
+#### Stack
+
+**Languages:** TypeScript, JavaScript, Python, Dart, C#, PHP
+**Frontend:** Next.js, React, Tailwind CSS, Astro
+**Mobile:** React Native / Expo, Flutter, Capacitor, Google Play releases
+**Backend:** FastAPI, SQLAlchemy / Alembic, Laravel, Supabase, Cloudflare Workers
+**Data:** PostgreSQL, MySQL, Cloudflare D1
+**DevOps:** GitHub Actions, Docker, Nginx, PM2, Vercel, Cloudflare Pages
+**Integrations:** Stripe, PayPal, Google OAuth / Search Console API, Twilio, OpenAI
+**Games:** Unity (C#)
+
+#### Contact
+
+📧 [abdulrehmanbilal25@gmail.com](mailto:abdulrehmanbilal25@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/abdulrehman-bilal-9953a4372/)
